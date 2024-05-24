@@ -1,3 +1,3 @@
 # KaggleProjects
-Kaggle profile for some projects I did in a machine learning class:
+My Kaggle profile showcasing a few machine learning projects I did while in school:
 https://www.kaggle.com/juliavann
